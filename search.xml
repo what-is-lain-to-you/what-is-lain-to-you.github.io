@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Lec 01 - Overview 计算机图形学概述</title>
+      <link href="/2023/04/10/Lec%2001%20-%20Overview%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%A6%82%E8%BF%B0/"/>
+      <url>/2023/04/10/Lec%2001%20-%20Overview%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%A6%82%E8%BF%B0/</url>
+      
+        <content type="html"><![CDATA[<p>Why study Computer Graphics?</p><ul><li>Applications: Video Games, Movies, Animations, Design, Visualization, VR&amp;AR, Digital Illustration, Simulation, GUI, Typography</li><li>Fundamental Intellectual Challenges<ul><li>Creates and interacts with realistic virtual world</li><li>Requires understanding of all aspects of physical world</li><li>New computing methods, displays, technologies</li></ul></li><li>Technical Challenges<ul><li>Math of (perspective) projections, curves, surfaces</li><li>Physics of lighting and shading</li><li>Representing &#x2F; operating shapes in 3D</li><li>Animation &#x2F; simulation</li><li><del>3D graphics software programming and hardware</del></li></ul></li></ul><p>Course Topics (mainly 4 parts)</p><ul><li>Rasterization</li><li>Curves and Meshes</li><li>Ray Tracing</li><li>Animation &#x2F; Simulation</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Games101 </tag>
+            
+            <tag> Notes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/04/10/hello-world/"/>
       <url>/2023/04/10/hello-world/</url>
